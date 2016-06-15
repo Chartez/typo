@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - typo_db@localhost" uuid="3ade0cba-cc73-4064-b20a-2bb4a8ab119f">
+      <secret-storage>master_key</secret-storage>
+      <user-name>homestead</user-name>
+      <schema-pattern>typo_db.*</schema-pattern>
+      <default-schemas>typo_db.*</default-schemas>
+    </data-source>
+  </component>
+</project>
